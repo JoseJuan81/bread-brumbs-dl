@@ -1,6 +1,11 @@
 # bread-crumbs-dl
 Bread crumbs en [vivo](https://codepen.io/JOSEJUAN/pen/OJMVYJW)
 
+<img src="https://img.shields.io/npm/dm/bread-crumbs-dl">
+<img src="https://img.shields.io/npm/v/bread-crumbs-dl">
+<img src="https://img.shields.io/npm/l/bread-crumbs-dl">
+<img src="https://img.shields.io/github/repo-size/josejuan81/bread-crumbs-dl">
+
 Este es un componente para ser usado como **bread-crumbs** en las aplicaciones sin embargo el también se presta para usarse en la representación de flujos unidireccionales o en líneas de tiempo.
 
 ## Install
