@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="container mx-auto">
-    <div class="flex flex-wrap justify-start mx-10">
+      <div class="flex flex-wrap justify-start mx-10">
         <bc-dl
           v-for="(route, index) in routes"
           :key="index"
@@ -12,13 +12,13 @@
           :text="route.meta.title"
           @click="handler(route)"
         />
+      </div>
     </div>
-  </div>
   </div>
 </template>
 
 <script>
-import BreadCrumbsDl from '@/components/BreadCrumbsDl.vue';
+import BreadCrumbsDl from '@/components/bread-crumbs-dl.vue';
 
 function handler(route) {
   console.log(route);

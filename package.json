@@ -1,6 +1,6 @@
 {
   "name": "bread-crumbs-dl",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "main": "lib/bread-crumbs-dl.umd.js",
   "module": "lib/bread-crumbs-dl.esm.js",
   "unpkg": "lib/bread-crumbs-dl.min.js",

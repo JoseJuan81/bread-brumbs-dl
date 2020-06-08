@@ -1,4 +1,4 @@
-import breadCrumbsDl from './components/BreadCrumbsDl.vue';
+import breadCrumbsDl from './components/bread-crumbs-dl.vue';
 
 // Declare install function executed by Vue.use()
 export function install(Vue) {
